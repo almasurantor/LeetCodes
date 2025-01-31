@@ -6,4 +6,4 @@ class Solution(object):
                 a.add(num)
             else:
                 return True
-        return False
+        return False 
